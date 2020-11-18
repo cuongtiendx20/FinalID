@@ -1,0 +1,15 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	background: deeppink;
+	width: 80%;
+	height: 500px;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	line-height: 500px;
+}
+
